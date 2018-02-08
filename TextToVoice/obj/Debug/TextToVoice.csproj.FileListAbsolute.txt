@@ -1,0 +1,5 @@
+C:\Dev\TestToSpeach\TextToSpeech\TextToVoice\bin\Debug\TextToVoice.dll
+C:\Dev\TestToSpeach\TextToSpeech\TextToVoice\bin\Debug\TextToVoice.pdb
+C:\Dev\TestToSpeach\TextToSpeech\TextToVoice\obj\Debug\TextToVoice.csprojResolveAssemblyReference.cache
+C:\Dev\TestToSpeach\TextToSpeech\TextToVoice\obj\Debug\TextToVoice.dll
+C:\Dev\TestToSpeach\TextToSpeech\TextToVoice\obj\Debug\TextToVoice.pdb

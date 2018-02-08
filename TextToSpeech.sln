@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeech", "TextToSpeech\TextToSpeech.csproj", "{21E60CB0-9DC0-440E-B9BC-5A09FEA9D10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text", "TextToVoice\Text.csproj", "{865244B6-7A91-4F85-8399-FBE078D83C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToVoiceTest", "TextToVoiceTest\TextToVoiceTest.csproj", "{3CD75DB9-C43E-45FD-B374-8D1B3D9B2C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E60CB0-9DC0-440E-B9BC-5A09FEA9D10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E60CB0-9DC0-440E-B9BC-5A09FEA9D10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E60CB0-9DC0-440E-B9BC-5A09FEA9D10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E60CB0-9DC0-440E-B9BC-5A09FEA9D10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865244B6-7A91-4F85-8399-FBE078D83C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865244B6-7A91-4F85-8399-FBE078D83C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865244B6-7A91-4F85-8399-FBE078D83C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865244B6-7A91-4F85-8399-FBE078D83C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD75DB9-C43E-45FD-B374-8D1B3D9B2C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD75DB9-C43E-45FD-B374-8D1B3D9B2C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD75DB9-C43E-45FD-B374-8D1B3D9B2C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD75DB9-C43E-45FD-B374-8D1B3D9B2C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
