@@ -16,13 +16,9 @@ namespace Text
 		public void Speak()
 		{
 			SpeechSynthesizer synth = new SpeechSynthesizer();
-
-			//synth.SetOutputToWaveFile(@"C:\Test\Sample.wav");
 			synth.Rate = this.Rate;
-
 			synth.Speak(ReadOutText);
-
-			//var x = synth.GetInstalledVoices();						
+		
 		}
 
 		public bool MakeMP3(string outputLocation)
