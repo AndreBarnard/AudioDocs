@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TextToSpeech.cs">
+    <Compile Include="AudioDocs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TextToSpeech.Designer.cs">
-      <DependentUpon>TextToSpeech.cs</DependentUpon>
+    <Compile Include="AudioDocs.Designer.cs">
+      <DependentUpon>AudioDocs.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="TextToSpeech.resx">
-      <DependentUpon>TextToSpeech.cs</DependentUpon>
+    <EmbeddedResource Include="AudioDocs.resx">
+      <DependentUpon>AudioDocs.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -1,0 +1,13 @@
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\TextToSpeech.exe.config
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\obj\Debug\TextToSpeech.exe
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\obj\Debug\TextToSpeech.pdb
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\TextToSpeech.exe
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\TextToSpeech.pdb
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\TextToVoice.dll
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\itextsharp.dll
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\TextToVoice.pdb
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\bin\Debug\itextsharp.xml
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\obj\Debug\AudioDocs.csprojResolveAssemblyReference.cache
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\obj\Debug\TextToSpeech.AudioDocs.resources
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Dev\TextToSpeech\TextToSpeech\AudioDocs\obj\Debug\AudioDocs.csproj.GenerateResource.Cache

@@ -16,7 +16,7 @@ namespace TextToSpeech
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new TextToSpeech());
+			Application.Run(new AudioDocs());
 		}
 	}
 }

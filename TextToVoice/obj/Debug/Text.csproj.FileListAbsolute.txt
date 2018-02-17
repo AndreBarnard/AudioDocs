@@ -1,0 +1,6 @@
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoice\bin\Debug\TextToVoice.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoice\bin\Debug\TextToVoice.pdb
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoice\bin\Debug\itextsharp.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoice\bin\Debug\itextsharp.xml
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoice\obj\Debug\TextToVoice.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoice\obj\Debug\TextToVoice.pdb

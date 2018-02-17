@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace TextToSpeech
 {
-	public partial class TextToSpeech : Form
+	public partial class AudioDocs : Form
 	{
-		public TextToSpeech()
+		public AudioDocs()
 		{
 			InitializeComponent();
 		}
@@ -21,7 +21,7 @@ namespace TextToSpeech
 		private void btnSpeak_Click(object sender, EventArgs e)
 		{
 			Text.TextToVoice TextToVoice = new Text.TextToVoice();
-			TextToVoice.Rate = 3;
+			TextToVoice.Rate = (int)numRate.Value;
 			TextToVoice.ReadOutText = txtSpeech.Text;
 			TextToVoice.Speak();
 
@@ -85,6 +85,11 @@ namespace TextToSpeech
 			}
 
 			TextToVoice = null;
+		}
+
+		private void AudioDocs_Load(object sender, EventArgs e)
+		{
+
 		}
 	}
 }

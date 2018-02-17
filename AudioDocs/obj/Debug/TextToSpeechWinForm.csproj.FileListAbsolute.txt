@@ -1,0 +1,13 @@
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\TextToSpeech.exe.config
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\TextToSpeech.exe
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\TextToSpeech.pdb
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\TextToVoice.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\itextsharp.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\TextToVoice.pdb
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\bin\Debug\itextsharp.xml
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\obj\Debug\TextToSpeechWinForm.csprojResolveAssemblyReference.cache
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\obj\Debug\TextToSpeech.TextToSpeech.resources
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\obj\Debug\TextToSpeechWinForm.csproj.GenerateResource.Cache
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\obj\Debug\TextToSpeech.exe
+C:\Dev\TextToSpeech\TextToSpeech\TextToSpeechWinForm\obj\Debug\TextToSpeech.pdb

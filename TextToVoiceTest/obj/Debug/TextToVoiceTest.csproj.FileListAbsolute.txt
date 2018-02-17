@@ -1,0 +1,16 @@
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\TextToVoiceTest.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\TextToVoiceTest.pdb
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\TextToVoice.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\itextsharp.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\TextToVoice.pdb
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\bin\Debug\itextsharp.xml
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\obj\Debug\TextToVoiceTest.csprojResolveAssemblyReference.cache
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\obj\Debug\TextToVoiceTest.dll
+C:\Dev\TextToSpeech\TextToSpeech\TextToVoiceTest\obj\Debug\TextToVoiceTest.pdb
